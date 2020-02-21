@@ -1,0 +1,2 @@
+QuickSort 10 OK
+Capacity 1
